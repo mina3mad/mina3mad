@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 A MERN Stack Developer
+ 🔭 A backend Developer
  
  🌱 I’m currently learning nest
 
-💬 Ask me about **Node.js, React and Nextjs 
+💬 Ask me about **Node.js, Express and NestJs 
 
 
  </div>
